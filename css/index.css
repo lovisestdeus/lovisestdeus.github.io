@@ -9,5 +9,6 @@ html {
 
 .name {
     margin-top: 200px;
-    font-size: 40px;
+    font-size: 10px;
+    font-family: 'Press Start 2P', cursive;
 }
