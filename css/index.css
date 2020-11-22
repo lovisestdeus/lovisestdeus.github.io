@@ -7,8 +7,16 @@ html {
     color: white;
   }
 
+/*
 .name {
     margin-top: 200px;
     font-size: 10px;
+    font-family: 'Press Start 2P', cursive;
+}
+*/
+
+.name {
+    margin-top: 10%;
+    font-size: 70%;
     font-family: 'Press Start 2P', cursive;
 }
